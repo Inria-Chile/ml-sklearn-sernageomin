@@ -22,4 +22,4 @@ We have made our best to acknowledge the corresponding author whenever using thi
 
 ## Course survey
 
-If you took part of the course, please, help us improve by filling up this [survey form](https://bit.ly/3aYC8GW).
+If you took part of the course, please, help us improve by filling up this [survey form](https://forms.gle/HaiYB5VccNWNkLr69).
