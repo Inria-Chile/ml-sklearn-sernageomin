@@ -20,3 +20,6 @@ A repository of [Jupyter](https://www.jupyter.org)/[IPython](https://www.ipython
 
 We have made our best to acknowledge the corresponding author whenever using third-party materials. If you find any misattributions do not hesitate to contact us.
 
+## Course survey
+
+If you took part of the course, please, help us improve by filling up this [survey form](https://bit.ly/3aYC8GW).
