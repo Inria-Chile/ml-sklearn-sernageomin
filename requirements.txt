@@ -1,0 +1,9 @@
+numpy
+scikit-learn
+scipy
+ipywidgets
+matplotlib
+pandas
+tensorflow
+tensorboard
+tdqm
