@@ -10,16 +10,12 @@ A repository of [Jupyter](https://www.jupyter.org)/[IPython](https://www.ipython
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/lmarti/ml-sklearn-sernageomin/master)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-## Notes
+## Installing locally
 
 * Coded in Python 3.x; Python 2.x is **not** supported.
 * See [`requirements.txt`](https://github.com/lmarti/machine-learning/blob/master/requirements.txt) for a full list of requirements.
-* Using [Anaconda](https://www.continuum.io/downloads) is recommended.
+* Run `pip install -r requirements.txt` to install all dependencies.
 
 ## Third-party images and materials usage note
 
 We have made our best to acknowledge the corresponding author whenever using third-party materials. If you find any misattributions do not hesitate to contact us.
-
-## Course survey
-
-If you took part of the course, please, help us improve by filling up this [survey form](https://forms.gle/HaiYB5VccNWNkLr69).

@@ -4,6 +4,8 @@ scipy
 ipywidgets
 matplotlib
 pandas
-tensorflow
-tensorboard
 tdqm
+seaborn
+RISE
+deap
+notebook
